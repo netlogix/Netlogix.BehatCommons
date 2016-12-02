@@ -1,0 +1,16 @@
+{
+	"name": "netlogix/behatcommons",
+	"type": "typo3-flow-package",
+	"homepage": "http://www.netlogix.de",
+	"license": ["MIT"],
+	"require": {
+		"typo3/flow": "*"
+	},
+	"suggest": {
+	},
+	"autoload": {
+		"psr-0": {
+			"Netlogix\\BehatCommons": "Classes"
+		}
+	}
+}
