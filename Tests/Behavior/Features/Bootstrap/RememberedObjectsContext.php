@@ -13,7 +13,7 @@ use Behat\Behat\Context\BehatContext;
 use Behat\Gherkin\Node\TableNode;
 use Netlogix\BehatCommons\ObjectFactory;
 use Netlogix\BehatCommons\RememberedObjectsTrait;
-use TYPO3\Flow\Object\ObjectManagerInterface;
+use Neos\Flow\ObjectManagement\ObjectManagerInterface;
 
 require_once(__DIR__ . '/../../../../Classes/Netlogix/BehatCommons/RememberedObjectsTrait.php');
 

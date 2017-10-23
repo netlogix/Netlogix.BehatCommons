@@ -9,11 +9,11 @@ namespace Netlogix\BehatCommons;
  * source code.
  */
 
-use TYPO3\Flow\Annotations as Flow;
-use TYPO3\Flow\Property\PropertyMapper;
-use TYPO3\Flow\Property\PropertyMappingConfiguration;
-use TYPO3\Flow\Property\TypeConverter\PersistentObjectConverter;
-use TYPO3\Flow\Reflection\ObjectAccess;
+use Neos\Flow\Annotations as Flow;
+use Neos\Flow\Property\PropertyMapper;
+use Neos\Flow\Property\PropertyMappingConfiguration;
+use Neos\Flow\Property\TypeConverter\PersistentObjectConverter;
+use Neos\Utility\ObjectAccess;
 
 /**
  * The input structure of the ObjectFactory is a 2x2 dimension table where a
