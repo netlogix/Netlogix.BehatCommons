@@ -1,6 +1,6 @@
 {
 	"name": "netlogix/behatcommons",
-	"type": "typo3-flow-package",
+	"type": "neos-package",
 	"homepage": "http://www.netlogix.de",
 	"license": [
 		"MIT"
