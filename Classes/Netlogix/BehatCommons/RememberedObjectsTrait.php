@@ -10,7 +10,7 @@ namespace Netlogix\BehatCommons;
  */
 
 use Behat\Behat\Event\ScenarioEvent;
-use TYPO3\Flow\Annotations as Flow;
+use Neos\Flow\Annotations as Flow;
 
 trait RememberedObjectsTrait
 {
